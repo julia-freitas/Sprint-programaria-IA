@@ -14,6 +14,7 @@ _______________________________
 ▶️ Assistir: [Boas vindas](https://www.youtube.com/watch?v=PxnjYNbaJWg&feature=youtu.be) (12 min)
 
 👩‍💻 Interagir: Apresente-se no Slack! (5 min)
+
 📖 Ler: [Inteligência Artificial: tudo que você precisa saber para começar a explorar esse universo](https://www.programaria.org/inteligencia-artificial-tudo-que-voce-precisa-saber-para-comecar-a-explorar-esse-universo/?utm_source=sprint-ia&utm_medium=email&utm_campaign=dia-01) (8 min)
 
 📖 Ler: [Quais são os tipos de aplicações de Inteligência Artificial mais comuns?](https://www.programaria.org/quais-sao-os-tipos-de-aplicacoes-de-inteligencia-artificial-mais-comuns/?utm_source=sprint-ia&utm_medium=email&utm_campaign=dia-01) (7 min)
