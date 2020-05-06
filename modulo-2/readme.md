@@ -44,3 +44,24 @@ _______________________________
 
 👩‍💻 Interagir: Terminou o módulo? Compartilhe no canal #modulo-2 do Slack seu principal aprendizado e encoraje outras pessoas a avançarem! :) (10 min)
 
+_______________________________
+
+## Live 1
+
+#### Case da Creditas
+
+- Medium posts da creditas (alguns são mostrados na apresentação da Live)
+
+https://medium.com/creditas-tech
+
+https://medium.com/creditas-tech/data-engineering-needs-to-be-specialized-heres-how-we-did-it-16ab6c02eb96
+
+- Interpretabilidade
+
+- Kaggle learn gratuito
+
+www.kaggle.com/learn/machine-learning-explainability
+
+- academy quarentraining (interno para colaboradores da creditas)
+
+
