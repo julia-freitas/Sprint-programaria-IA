@@ -27,3 +27,4 @@ _______________________________
 
 👩‍💻 Interagir: Terminou o módulo? Compartilhe no canal #modulo-1 do Slack seu principal aprendizado e encoraje outras pessoas! :) (6 min)
 
+▶️ Live: Dia 05/05 [Casos Técnicos com Machine Learning](https://www.youtube.com/watch?v=qlP98Ph3RaU) (1h:54min)
