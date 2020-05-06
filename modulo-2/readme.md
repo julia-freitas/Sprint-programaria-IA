@@ -20,10 +20,12 @@ _______________________________
 
 ## 👩‍🏫 Conheça as palestrantes:
 
-#Barbara Barbosa
+# Barbara Barbosa
+
 Vegetariana que adora cozinhar e também fazer artesanato nas horas livres. Possuo mestrado em Sistemas de Informação com foco em Inteligência Computacional e atualmente sou líder do time de Data Science da Creditas. Participo de diversos projetos de diversidade feminina na tecnologia, como Rails Girls, Women Dev Summit e Women in Data Science.
 
-#Juliana Cesaro
+# Juliana Cesaro
+
 Juliana é cientista de dados no Luizalabs. Formada em engenharia elétrica pela USP e engenharia biomédica pelo Politecnico di Torino. Fazendo mestrado na USP com foco em usar interpretabilidade de modelos de machine learning para avaliar discriminação.
 
 _______________________________
@@ -56,9 +58,9 @@ https://medium.com/creditas-tech
 
 https://medium.com/creditas-tech/data-engineering-needs-to-be-specialized-heres-how-we-did-it-16ab6c02eb96
 
-- Interpretabilidade
+- Interpretabilidade dos dados
 
-- Kaggle learn gratuito
+- Kaggle learn (gratuito)
 
 www.kaggle.com/learn/machine-learning-explainability
 
