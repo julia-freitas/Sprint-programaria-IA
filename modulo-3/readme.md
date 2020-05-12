@@ -34,13 +34,14 @@ _______________________________
 
 👩‍🏫 Conheça a instrutora:
 
-Fernanda Wanderley
+# Fernanda Wanderley
+
 Doutora em Inteligência Computacional, minha principal área de interesse é  aplicações de Machine Learning em problemas biomédicos. Ser capaz de causar um impacto positivo na vida das pessoas, usando meus conhecimentos, me traz uma satisfação enorme. Atualmente, trabalho com detecção de patologias em imagens de raio-x e sangramentos em tomografia de tórax. Também já realizei pesquisas sobre previsão de eficácia de quimioterapia em câncer de mama e busca de variantes genéticas em DNA.
 
 
 _______________________________
 
->>  RESUMO DAS MIGAS  <
+RESUMO DAS MIGAS  
 
 ⚙️Configurar: [Tutorial de instalação para o Workshop](https://www.programaria.org/como-criar-o-seu-primeiro-projeto-de-machine-learning/?utm_source=sprint-ia&utm_medium=email&utm_campaign=dia-03) (20 min)
 
